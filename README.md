@@ -3,6 +3,11 @@
 Johann Brehmer 2014-2019
 
 
+## 2020
+
+- Deep learning seminar, University of Bremen, Germany (invited): [Normalizing flows and the likelihood ratio trick in particle physics](2020/simulation_based_inference_bremen_2020.pdf)
+
+
 ## 2019
 
 - NeurIPS workshop Deep Learning and the Physical Sciences, Vancouver, Canada (poster): [Mining gold: Improving simulation-based inference with latent information](2019/mining_gold_neurips_dlps_2019.pdf)
