@@ -1,10 +1,11 @@
 # Selected slides
 
-Johann Brehmer 2014-2019
+Johann Brehmer 2014-2020
 
 
 ## 2020
 
+- Machine Learning for the LHC, Nagoya University, Japan (invited): [The frontier of simulation-based inference](2020/simulation_based_inference_nagoya_2020.pdf)
 - Deep learning seminar, University of Bremen, Germany (invited): [Normalizing flows and the likelihood ratio trick in particle physics](2020/simulation_based_inference_bremen_2020.pdf)
 
 
