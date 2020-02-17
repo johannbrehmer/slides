@@ -5,6 +5,7 @@ Johann Brehmer 2014-2020
 
 ## 2020
 
+- Dark Matter Working Group seminar, RIKEN, Japan: [Mining for Dark Matter substructure: Learning from lenses without a likelihood](2020/mining_for_substructure_riken_2020.pdf)
 - Machine Learning for the LHC, Nagoya University, Japan (invited): [The frontier of simulation-based inference](2020/simulation_based_inference_nagoya_2020.pdf)
 - Deep learning seminar, University of Bremen, Germany (invited): [Normalizing flows and the likelihood ratio trick in particle physics](2020/simulation_based_inference_bremen_2020.pdf)
 
