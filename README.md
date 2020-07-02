@@ -5,6 +5,7 @@ Johann Brehmer 2014-2020
 
 ## 2020
 
+- Physics x ML seminar, New York University, USA: [NOTAGAN: Normalizing flows for simultaneous manifold learning and density estimation](2020/m_flows_nyu_2020.pdf)
 - Dark Matter Working Group seminar, RIKEN, Japan: [Mining for Dark Matter substructure: Learning from lenses without a likelihood](2020/mining_for_substructure_riken_2020.pdf)
 - Machine Learning for the LHC, Nagoya University, Japan (invited): [The frontier of simulation-based inference](2020/simulation_based_inference_nagoya_2020.pdf)
 - Deep learning seminar, University of Bremen, Germany (invited): [Normalizing flows and the likelihood ratio trick in particle physics](2020/simulation_based_inference_bremen_2020.pdf)
