@@ -5,15 +5,16 @@ Johann Brehmer 2014-2020
 
 ## 2020
 
+- ICML workshop on Invertible Neural Networks, Normalizing Flows, and Explicit Likelihood Models: [NOTAGAN: Flows for the data manifold](2020/m_flows_innf_2020.pdf)
 - Physics x ML seminar, New York University, USA: [NOTAGAN: Normalizing flows for simultaneous manifold learning and density estimation](2020/m_flows_nyu_2020.pdf)
-- Dark Matter Working Group seminar, RIKEN, Japan: [Mining for Dark Matter substructure: Learning from lenses without a likelihood](2020/mining_for_substructure_riken_2020.pdf)
+- Dark Matter Working Group seminar, RIKEN, Japan: [Mining for Dark Matter substructure: Learning from lenses without a likelihood](2020/mining_for_substructure_riken_2020.pdf)
 - Machine Learning for the LHC, Nagoya University, Japan (invited): [The frontier of simulation-based inference](2020/simulation_based_inference_nagoya_2020.pdf)
 - Deep learning seminar, University of Bremen, Germany (invited): [Normalizing flows and the likelihood ratio trick in particle physics](2020/simulation_based_inference_bremen_2020.pdf)
 
 
 ## 2019
 
-- NeurIPS workshop Deep Learning and the Physical Sciences, Vancouver, Canada (poster): [Mining gold: Improving simulation-based inference with latent information](2019/mining_gold_neurips_dlps_2019.pdf)
+- NeurIPS workshop on Deep Learning and the Physical Sciences, Vancouver, Canada (poster): [Mining gold: Improving simulation-based inference with latent information](2019/mining_gold_neurips_dlps_2019.pdf)
 - Seminar, INFN Padova, Italy (invited): [Constraining effective field theories with machine learning](2019/learning_to_constrain_padova_2019.pdf)
 - Higgs and Effective Field Theory, Louvain-la-Neuve, Belgium (plenary, invited): [Constraining effective field theories with machine learning](2019/learning_to_constrain_heft_2019.pdf)
 - Likelihood-free inference meeting, Flatiron institute, New York, USA: ["Mining gold" from simulators to improve likelihood-free inference](2019/mining_gold_lfiweek_flatiron_2019.pdf)
