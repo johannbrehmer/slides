@@ -5,7 +5,8 @@ Johann Brehmer 2014-2020
 
 ## 2020
 
-- ICML workshop on Invertible Neural Networks, Normalizing Flows, and Explicit Likelihood Models: [NOTAGAN: Flows for the data manifold](2020/m_flows_innf_2020.pdf)
+- ICML workshop on Invertible Neural Networks, Normalizing Flows, and Explicit Likelihood Models (spotlight talk): [NOTAGAN: Flows for the data manifold](2020/m_flows_innf_2020.pdf)
+- MLclub.net seminar (invited): [Flows for simultaneous manifold learning and density estimation \#notagan](2020/m_flows_mlclub.net_2020.pdf)
 - Physics x ML seminar, New York University, USA: [NOTAGAN: Normalizing flows for simultaneous manifold learning and density estimation](2020/m_flows_nyu_2020.pdf)
 - Dark Matter Working Group seminar, RIKEN, Japan: [Mining for Dark Matter substructure: Learning from lenses without a likelihood](2020/mining_for_substructure_riken_2020.pdf)
 - Machine Learning for the LHC, Nagoya University, Japan (invited): [The frontier of simulation-based inference](2020/simulation_based_inference_nagoya_2020.pdf)
