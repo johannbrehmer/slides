@@ -7,7 +7,7 @@ Johann Brehmer 2014-2020
 
 - NeurIPS (poster): [Flows for simultaneous manifold learning and density estimation](2020/m_flows_neurips_poster_2020.pdf) [(talk)](2020/m_flows_neurips_talk_2020.pdf)
 - Theory seminar, JLab, USA (invited): How machine learning can help us get the most out of high-precision particle physics models
-- Theory seminar, DESY Zeuthen and HU Berlin, Germany (invited): How machine learning can help us get the most out of high-precision particle physics models
+- Theory seminar, DESY Zeuthen and HU Berlin, Germany (invited): [How machine learning can help us get the most out of high-precision particle physics models](2020/simulation_based_inference_berlin_2020.pdf)
 - Job talk, Qualcomm AI Research, Amsterdam, Netherlands: [How machine learning can help us get the most out of high-precision physics models](2020/simulation_based_inference_qualcomm_2020.pdf)
 - Job talk, Bosch Center for AI, Renningen, Germany: [How machine learning can help us get the most out of high-precision physics models](2020/simulation_based_inference_bosch_2020.pdf)
 - Theory seminar, DESY Zeuthen and HU Berlin, Germany (invited): How machine learning can help us get the most out of high-precision particle physics models
