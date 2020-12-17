@@ -5,7 +5,7 @@ Johann Brehmer 2014-2020
 
 ## 2020
 
-- NeurIPS workshop on Deep Learning and the Physical Sciences (poster): [Hierarchical clustering in particle physics through reinforcement learning](2020/rl_clustering_ml4ps_2020.pdf)
+- NeurIPS workshop on Machine Learning and the Physical Sciences (poster): [Hierarchical clustering in particle physics through reinforcement learning](2020/rl_clustering_ml4ps_2020.pdf)
 - NeurIPS (poster): [Flows for simultaneous manifold learning and density estimation](2020/m_flows_neurips_poster_2020.pdf) [(talk)](2020/m_flows_neurips_talk_2020.pdf)
 - Theory seminar, JLab, USA (invited): [How machine learning can help us get the most out of high-precision particle physics models](2020/simulation_based_inference_jlab_2020.pdf)
 - Theory seminar, DESY Zeuthen and HU Berlin, Germany (invited): [How machine learning can help us get the most out of high-precision particle physics models](2020/simulation_based_inference_berlin_2020.pdf)
@@ -22,7 +22,7 @@ Johann Brehmer 2014-2020
 
 ## 2019
 
-- NeurIPS workshop on Deep Learning and the Physical Sciences, Vancouver, Canada (poster): [Mining gold: Improving simulation-based inference with latent information](2019/mining_gold_neurips_dlps_2019.pdf)
+- NeurIPS workshop on Machine Learning and the Physical Sciences, Vancouver, Canada (poster): [Mining gold: Improving simulation-based inference with latent information](2019/mining_gold_neurips_dlps_2019.pdf)
 - Seminar, INFN Padova, Italy (invited): [Constraining effective field theories with machine learning](2019/learning_to_constrain_padova_2019.pdf)
 - Higgs and Effective Field Theory, Louvain-la-Neuve, Belgium (plenary, invited): [Constraining effective field theories with machine learning](2019/learning_to_constrain_heft_2019.pdf)
 - Likelihood-free inference meeting, Flatiron institute, New York, USA: ["Mining gold" from simulators to improve likelihood-free inference](2019/mining_gold_lfiweek_flatiron_2019.pdf)
