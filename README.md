@@ -5,6 +5,7 @@ Johann Brehmer 2014-2020
 
 ## 2020
 
+- NeurIPS workshop on Deep Learning and the Physical Sciences (poster): [Hierarchical clustering in particle physics through reinforcement learning](2020/rl_clustering_ml4ps_2020.pdf)
 - NeurIPS (poster): [Flows for simultaneous manifold learning and density estimation](2020/m_flows_neurips_poster_2020.pdf) [(talk)](2020/m_flows_neurips_talk_2020.pdf)
 - Theory seminar, JLab, USA (invited): [How machine learning can help us get the most out of high-precision particle physics models](2020/simulation_based_inference_jlab_2020.pdf)
 - Theory seminar, DESY Zeuthen and HU Berlin, Germany (invited): [How machine learning can help us get the most out of high-precision particle physics models](2020/simulation_based_inference_berlin_2020.pdf)
