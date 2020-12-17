@@ -11,7 +11,7 @@ Johann Brehmer 2014-2020
 - Theory seminar, DESY Zeuthen and HU Berlin, Germany (invited): [How machine learning can help us get the most out of high-precision particle physics models](2020/simulation_based_inference_berlin_2020.pdf)
 - Job talk, Qualcomm AI Research, Amsterdam, Netherlands: [How machine learning can help us get the most out of high-precision physics models](2020/simulation_based_inference_qualcomm_2020.pdf)
 - Job talk, Bosch Center for AI, Renningen, Germany: [How machine learning can help us get the most out of high-precision physics models](2020/simulation_based_inference_bosch_2020.pdf)
-- Theory seminar, DESY Zeuthen and HU Berlin, Germany (invited): How machine learning can help us get the most out of high-precision particle physics models
+- Theory seminar, DESY Zeuthen and HU Berlin, Germany (invited): [How machine learning can help us get the most out of high-precision particle physics models](2020/simulation_based_inference_berlin_2020.pdf)
 - ICML workshop on Invertible Neural Networks, Normalizing Flows, and Explicit Likelihood Models (spotlight talk): [NOTAGAN: Flows for the data manifold](2020/m_flows_innf_2020.pdf)
 - MLclub.net seminar (invited): [Flows for simultaneous manifold learning and density estimation \#notagan](2020/m_flows_mlclub.net_2020.pdf)
 - Physics x ML seminar, New York University, USA: [NOTAGAN: Normalizing flows for simultaneous manifold learning and density estimation](2020/m_flows_nyu_2020.pdf)
