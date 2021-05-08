@@ -1,7 +1,10 @@
 # Selected presentations
 
-Johann Brehmer 2014-2020
+Johann Brehmer 2014-2021
 
+## 2021
+
+- AI Institute seminar, Carnegie Mellon University, USA (invited): [Flows for simultaneous manifold learning and density estimation](2021/m_flows_cmu_2021.pdf)
 
 ## 2020
 
