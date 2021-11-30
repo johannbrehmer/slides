@@ -4,6 +4,7 @@ Johann Brehmer 2014-2021
 
 ## 2021
 
+- CMS machine learning journal club, CERN, Switzerland (invited): [Simulation-based inference in particle physics and beyond](2021/simulation_based_inference_cms_2021.pdf)
 - AI Institute seminar, Carnegie Mellon University, USA (invited): [Flows for simultaneous manifold learning and density estimation](2021/m_flows_cmu_2021.pdf)
 
 ## 2020
