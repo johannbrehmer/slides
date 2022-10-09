@@ -5,6 +5,7 @@ Johann Brehmer 2014-2022
 ## Upcoming
 
 - November / December 2022; NeurIPS, New Orleans, USA: Weakly supervised causal representation learning
+- November 2022; Heidelberg University, Germany (invited): TBD
 - November 15, 2022; Imperial College, London, UK (invited): TBD
 - October 18, 2022; Computational Methods and Data Science Journal Club, Flatiron Institute, New York, USA: Weakly supervised causal representation learning
 - October 12, 2022; Causality discussion group, online (invited): Weakly supervised causal representation learning
