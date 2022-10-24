@@ -10,8 +10,8 @@ Johann Brehmer 2014-2022
 
 ## 2022
 
-- October 18, 2022; Computational Methods and Data Science Journal Club, Flatiron Institute, New York, USA: [Weakly supervised causal representation learning](2022/weakly_supervised_crl_flatiron_2022.pdf)
-- October 12, 2022; Causality discussion group, online (invited): [Weakly supervised causal representation learning](2022/weakly_supervised_crl_cdg_2022.pdf)
+- Computational Methods and Data Science Journal Club, Flatiron Institute, New York, USA: [Weakly supervised causal representation learning](2022/weakly_supervised_crl_flatiron_2022.pdf)
+- Causality discussion group, online (invited): [Weakly supervised causal representation learning](2022/weakly_supervised_crl_cdg_2022.pdf)
 - RODEM Sinergia seminar, Switzerland (invited): [Simulation-based inference: The likelihood is dead, long live the likelihood](2022/simulation_based_inference_rodem_sinergia_2022.pdf)
 
 ## 2021
