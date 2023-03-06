@@ -1,6 +1,6 @@
 # Selected presentations
 
-Johann Brehmer 2014-2022
+Johann Brehmer 2014-2023
 
 ## Upcoming
 
@@ -8,8 +8,15 @@ Johann Brehmer 2014-2022
 - November 15, 2022; Imperial College, London, UK (invited): TBD
 - November 14, 2022; Heidelberg University, Germany (invited): TBD
 
+## 2023
+
+- Climate informatics seminar, TU Berlin, Germany (invited): [Causal representations and how to learn them](2023/weakly_supervised_crl_berlin_2023.pdf)
+- Qualcomm Innovation Fellowship info session, online: Causal representations and how to learn them
+
 ## 2022
 
+- NeurIPS (poster): Weakly supervised causal representation learning
+- Imperial College, London, UK (invited): Weakly supervised causal representation learning
 - Computational Methods and Data Science Journal Club, Flatiron Institute, New York, USA: [Weakly supervised causal representation learning](2022/weakly_supervised_crl_flatiron_2022.pdf)
 - Causality discussion group, online (invited): [Weakly supervised causal representation learning](2022/weakly_supervised_crl_cdg_2022.pdf)
 - RODEM Sinergia seminar, Switzerland (invited): [Simulation-based inference: The likelihood is dead, long live the likelihood](2022/simulation_based_inference_rodem_sinergia_2022.pdf)
