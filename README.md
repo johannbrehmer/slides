@@ -4,14 +4,17 @@ Johann Brehmer 2014-2023
 
 ## 2023
 
+- NeurIPS (poster): [Geometric Algebra Transformer](2023/gatr_poster_neurips_2023.pdf)
+- NeurIPS (poster): [EDGI: Equivariant Diffusion for Planning with Embodied Agents](2023/edgi_poster_neurips_2023.pdf)
+- ELLIS Symposium on Large Language and Foundation Models (invited): [In search of structure in the age of scale](2023/structure_scale_ellis_2023.pdf)
 - Guest lecture in Deep Learning 2, Universiteit van Amsterdam, Netherlands (invited): [From causality to compression: AI Research at Qualcomm](2023/qualcomm_ai_research_uva_2023.pdf)
 - Climate informatics seminar, TU Berlin, Germany (invited): [Causal representations and how to learn them](2023/weakly_supervised_crl_berlin_2023.pdf)
-- Qualcomm Innovation Fellowship info session, online: Causal representations and how to learn them
+- Qualcomm Innovation Fellowship info session, online: [Causal representations and how to learn them](2023/weakly_supervised_crl_qif_2023.pdf)
 
 ## 2022
 
-- NeurIPS (poster): Weakly supervised causal representation learning
-- Imperial College, London, UK (invited): Weakly supervised causal representation learning
+- NeurIPS (poster): [Weakly supervised causal representation learning](2022/weakly_supervised_crl_poster_neurips_2022.pdf) [(talk)](2022/weakly_supervised_crl_neurips_2022.pdf)
+- Imperial College, London, UK (invited): [Weakly supervised causal representation learning](2022/weakly_supervised_crl_imperial_2022.pdf)
 - Computational Methods and Data Science Journal Club, Flatiron Institute, New York, USA: [Weakly supervised causal representation learning](2022/weakly_supervised_crl_flatiron_2022.pdf)
 - Causality discussion group, online (invited): [Weakly supervised causal representation learning](2022/weakly_supervised_crl_cdg_2022.pdf)
 - RODEM Sinergia seminar, Switzerland (invited): [Simulation-based inference: The likelihood is dead, long live the likelihood](2022/simulation_based_inference_rodem_sinergia_2022.pdf)
