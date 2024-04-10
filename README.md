@@ -1,6 +1,12 @@
 # Selected presentations
 
-Johann Brehmer 2014-2023
+Johann Brehmer 2014-2024
+
+## 2024
+
+- Microsoft Research workshop Towards structured representations in deep models and policies (invited): [Keynote: Geometric Algebra Transformers](2024/gatr_msr_2024.pdf)
+- Pasteur Labs, online (invited): [Geometric Algebra Transformers](2024/gatr_pasteur_2024.pdf)
+- CARE seminar, Valence Labs, online (invited): [Weakly supervised causal representation learning](2024/weakly_supervised_crl_care_2024.pdf)
 
 ## 2023
 
