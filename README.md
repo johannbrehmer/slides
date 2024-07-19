@@ -4,6 +4,7 @@ Johann Brehmer 2014-2024
 
 ## 2024
 
+- ORIGINS Data Science Lab seminar, TU Munich, Germany (invited): [Scalable equivariance with Geometric Algebra Transformers](2024/gatr_munich_2024.pdf)
 - Microsoft Research workshop Towards structured representations in deep models and policies (invited): [Keynote: Geometric Algebra Transformers](2024/gatr_msr_2024.pdf)
 - Pasteur Labs, online (invited): [Geometric Algebra Transformers](2024/gatr_pasteur_2024.pdf)
 - CARE seminar, Valence Labs, online (invited): [Weakly supervised causal representation learning](2024/weakly_supervised_crl_care_2024.pdf)
@@ -12,7 +13,7 @@ Johann Brehmer 2014-2024
 
 - NeurIPS (poster): [Geometric Algebra Transformer](2023/gatr_poster_neurips_2023.pdf)
 - NeurIPS (poster): [EDGI: Equivariant Diffusion for Planning with Embodied Agents](2023/edgi_poster_neurips_2023.pdf)
-- ELLIS Symposium on Large Language and Foundation Models (invited): [In search of structure in the age of scale](2023/structure_scale_ellis_2023.pdf)
+- ELLIS Symposium on Large Language and Foundation Models, Amsterdam, Netherlands (invited): [In search of structure in the age of scale](2023/structure_scale_ellis_2023.pdf)
 - Guest lecture in Deep Learning 2, Universiteit van Amsterdam, Netherlands (invited): [From causality to compression: AI Research at Qualcomm](2023/qualcomm_ai_research_uva_2023.pdf)
 - Climate informatics seminar, TU Berlin, Germany (invited): [Causal representations and how to learn them](2023/weakly_supervised_crl_berlin_2023.pdf)
 - Qualcomm Innovation Fellowship info session, online: [Causal representations and how to learn them](2023/weakly_supervised_crl_qif_2023.pdf)
