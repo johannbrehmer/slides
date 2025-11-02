@@ -1,9 +1,19 @@
 # Selected presentations
 
-Johann Brehmer 2014-2024
+Johann Brehmer 2014-2025
+
+## 2025
+
+- ELLIS Amsterdam research retreat (invited): Keynote: On-demand material discovery made in Europe
+- Data intensive science seminar, Cambridge University, UK (invited): On the cusp of on-demand material discovery
+- Young scientist meeting of the CRC TRR 257, Heidelberg University, Germany (invited): One sample from the space of career paths
+- Machine learning for hep seminar, Heidelberg University, Germany (invited): Towards on-demand material design
+- Simons Foundation conference on foundation models for science (invited): Prompt to Perovskite: On the cusp of on-demand material generation
+- Dark universe and deep learning lab, University of Amsterdam, Netherlands (invited): Structure at scale with Geometric Algebra Transformers
 
 ## 2024
 
+- NeurIPS workshop on Symmetry and Geometry in Neural Representations (oral): Does equivariance matter at scale?
 - ORIGINS Data Science Lab seminar, TU Munich, Germany (invited): [Scalable equivariance with Geometric Algebra Transformers](2024/gatr_munich_2024.pdf)
 - Microsoft Research workshop Towards structured representations in deep models and policies (invited): [Keynote: Geometric Algebra Transformers](2024/gatr_msr_2024.pdf)
 - Pasteur Labs, online (invited): [Geometric Algebra Transformers](2024/gatr_pasteur_2024.pdf)
